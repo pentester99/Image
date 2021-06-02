@@ -4,11 +4,3 @@
 <something:script xmlns:something="http://www.w3.org/1999/xhtml">alert(document.cookie)</something:script>
 </body>
 </html>
-
-<ArrayOfRoleResponse xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContractPod.Product.Library.Models.UserManagement"><RoleResponse><Description></Description><ReportingId>0</ReportingId><ReportingName>NA</ReportingName>
-
-
-
-<RoleId>99999</RoleId>
-<RoleName>Admin</RoleName></RoleResponse></ArrayOfRoleResponse>
-
